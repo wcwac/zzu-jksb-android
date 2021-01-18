@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">早睡助手</string>
+    <string name="action_settings">设置</string>
+    <string name="adduser_username_title">学号</string>
+    <string name="adduser_password_title">密码</string>
+    <string name="adduser_myvs_1_title">您今天是否有发热症状?(是/否)</string>
+    <string name="adduser_myvs_2_title">您今天是否有咳嗽症状?(是/否)</string>
+    <string name="adduser_myvs_3_title">您今天是否有乏力或轻微乏力症状?(是/否)</string>
+    <string name="adduser_myvs_4_title">您今天是否有鼻塞、流涕、咽痛或腹泻等症状?(是/否)</string>
+    <string name="adduser_myvs_13a_title">当前实际所在地省份编号(41)</string>
+    <string name="adduser_myvs_13b_title">当前实际所在地城市编号(4101)</string>
+    <string name="adduser_myvs_13c_title">当前实际所在地家庭住址</string>
+    <string name="adduser_myvs_14_title">您是否为当日返郑人员?(是/否)</string>
+    <string name="title_guide">教程</string>
+    <string name="title_settings">设置</string>
+    <string name="title_about">关于</string>
+    <string name="title_logcat">日志</string>
+    <string name="title_feedback">反馈</string>
+    <string name="element_text">默认文字</string>
+    <string name="save">保存</string>
+    <string name="setting_time_hour">执行时间：每日X时</string>
+    <string name="setting_time_minute">X分</string>
+</resources>
