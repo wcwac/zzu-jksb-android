@@ -2,6 +2,10 @@
 
 zzu-jksb-android is an Android application that provides the ability to add an account and go to the [Zhengzhou University website](https://jksb.v.zzu.edu.cn/) for daily health reporting at a time set by the user.
 
+## Notice
+
+Please allow this application to run in the background in the system settings and set the battery option for this application to unlimited.
+
 ## Installation
 
 You can easily install and use zzu-jksb-android by downloading the installer for this application from [here](https://github.com/wcwac/zzu-jksb-android/releases/).
